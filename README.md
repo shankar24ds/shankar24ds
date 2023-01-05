@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shankar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working as a Data Scientist at a Big Data and AI company
+- 👀 I love Data Science
 - 📫 How to reach me : shankarselvaraj24@gmail.com
 
 <!---
