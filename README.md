@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there. I'm Shankar 👋
 
-- :zap: I love math, programming, data science, and books
+- :zap: I love Math, Programming, Data Science, and Books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 Reach me @ shankarselvaraj24@gmail.com
 
