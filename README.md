@@ -12,5 +12,3 @@ You can click the Preview link to take a look at your changes.
 [![Shankar's github stats](https://github-readme-stats.vercel.app/api?username=shankar24ds&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankar24ds&theme=dracula)
-
-![](https://api.githubtrends.io/user/svg/shankar24ds/langs?time_range=one_year&include_private=True&theme=classic)
