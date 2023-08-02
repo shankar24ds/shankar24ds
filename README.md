@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - :zap: I love Math, Programming, Data Science, and Books
 - 🌱 I’m addicted to learning and growing every day
-- 📫 Reach me @ shankarselvaraj24@gmail.com
+- 📫 Reach out to me @ shankarselvaraj24@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
