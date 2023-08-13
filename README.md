@@ -3,7 +3,7 @@ shankar24ds/shankar24ds is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there. I am Shankar. 👋
+### Hi, there. I am Shankar. 👋
 
 - :zap: I love Math, Programming, and Data Science.
 - 🌱 I’m addicted to learning and growing every day.
